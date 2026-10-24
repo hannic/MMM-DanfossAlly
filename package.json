@@ -1,0 +1,9 @@
+{
+  "name": "MMM-DanfossAlly",
+  "version": "1.0.0",
+  "description": "MagicMirror² module for Danfoss Ally.",
+  "main": "MMM-DanfossAlly.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}

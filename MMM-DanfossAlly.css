@@ -1,0 +1,13 @@
+.danfoss-ally-wrapper table {
+    border-spacing: 10px 5px;
+    border-collapse: separate;
+}
+.danfoss-ally-wrapper td {
+    padding: 2px 8px;
+}
+.danfoss-ally-wrapper .text-right {
+    text-align: right;
+}
+.danfoss-ally-wrapper .fa {
+    margin-right: 4px;
+}
