@@ -19,7 +19,7 @@ Step-by-Step Setup
 ```bash
 cd ~/MagicMirror/modules
 git clone https://github.com/hannic/MMM-DanfossAlly
-cd MMM-MyCustomModule
+cd MMM-DanfossAlly
 npm install
 ```
 
