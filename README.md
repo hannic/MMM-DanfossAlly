@@ -1,19 +1,20 @@
 # MMM-DanfossAlly
 A MagicMirror² module that displays your Danfoss Ally thermostat data.
 
-## Preparation Danfoss Ally App
 
-You will need: 
-- YOUR_DANFOSS_CONSUMER_KEY 
-- YOUR_DANFOSS_CONSUMER_SECRET
+## Prerequisites
 
-1. Go to https://developer.danfoss.com and create a login with the same email address as you use as Administrator. 
-2. Under [Your Name] > Apps: Create an App, e.g. "My MagicMirror Danfoss App" 
-3. You will need the consumer key and the consumer secret for the module
+Before you begin, you will need to obtain a Consumer Key and a Consumer Secret from Danfoss.
+
+Step-by-Step Setup
+
+1. Create an account: Go to the Danfoss Developer Portal and sign up using the same email address associated with your Danfoss Administrator account.
+2. Access your apps: Once logged in, click on your name in the top right corner and select Apps.
+3. Register a new app: Click Create an App. You can name it something descriptive, such as "My MagicMirror Danfoss App".
+4. Copy your credentials: Once the app is created, copy the generated Consumer Key and Consumer Secret. You will need to paste these into your MagicMirror module configuration file.
 
 
 ## Installation
-
 
 ```bash
 cd ~/MagicMirror/modules
