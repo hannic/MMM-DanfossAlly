@@ -26,6 +26,7 @@ Add the module to the modules array in your `config/config.js` file:
         }
     },
 
+![MMM-DanfossAlly](MMM-DanfossAlly_Screeenshot.jpeg)
 
 # Danfoss Ally
 
